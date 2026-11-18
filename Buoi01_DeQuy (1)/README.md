@@ -1,8 +1,8 @@
 # Buoi01_DeQuy
 
 
-- Họ tên: Vũ Xuân Bắc
-- MSV: 10125036
+- Họ tên: Đỗ Thế Gia Huy
+- MSV: 12425081
 - Lớp: 124251
 
 ## Bài đã làm
